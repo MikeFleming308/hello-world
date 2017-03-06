@@ -1,3 +1,3 @@
 # hello-world
 My first github repository
-This is the first step becoming a real data scientist
+This is my first step towards becoming a real data scientist!
